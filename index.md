@@ -10,7 +10,7 @@ permalink: /coughlin/
 [Department of Electrical, Computer, and Energy Engineering](http://ecee.colorado.edu/)   
 [University of Colorado Boulder](http://www.colorado.edu/)   
 ECEE 1B61A   
-Email: aimeemikaelac at  gmail dot com
+Email: aimee dot coughlin at colorado dot edu, aimeemikaelac at gmail dot com
 [GitHub Profile](https://github.com/aimeemikaelac)  
 [PGP Key](https://keybase.io/lordofzoobs/pgp_keys.asc?fingerprint=86cbbdfad9dff7edf92c22f56ce4968b3ec5373b)  
 PGP Public Key Fingerprint: *86CB BDFA D9DF F7ED F92C  22F5 6CE4 968B 3EC5 373B*
